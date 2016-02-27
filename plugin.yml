@@ -1,0 +1,7 @@
+name: MoarItems
+main: com.dansworld.moaritems.MoarItems
+version: 0.0.1
+depend: []
+commands:
+  moaritems:
+    aliases: mi
